@@ -1,0 +1,1 @@
+module.exports = ["sponsor", "student", "professional", "evangelist", "worker"];
